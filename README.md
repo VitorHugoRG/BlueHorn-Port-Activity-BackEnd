@@ -13,6 +13,8 @@ Backend da aplicação BlueHorn, desenvolvido em C# com ASP.NET Core.
 
 ```bash
 git clone https://github.com/VitorHugoRG/BlueHorn-Port-Activity-Back.git
+```
+```bash
 cd BlueHorn-Port-Activity-Back
 ```
 
