@@ -1,0 +1,6 @@
+@PortActivityAPI_HostAddress = http://localhost:5069
+
+GET {{PortActivityAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

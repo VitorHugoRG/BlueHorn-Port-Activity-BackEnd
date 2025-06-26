@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortActivityAPI", "PortActivityAPI.csproj", "{169FFB11-E43C-6461-ED08-AF2BBC620028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169FFB11-E43C-6461-ED08-AF2BBC620028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169FFB11-E43C-6461-ED08-AF2BBC620028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169FFB11-E43C-6461-ED08-AF2BBC620028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169FFB11-E43C-6461-ED08-AF2BBC620028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE69CB1-94AF-430A-88D0-B932CC376C5D}
+	EndGlobalSection
+EndGlobal
